@@ -4,3 +4,4 @@ name:sandhya
 project;verstion control test
 college;ANMK
 course;mca
+AFFILIATE:JNTUA
